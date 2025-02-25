@@ -2,8 +2,6 @@
 
 A real-time peer-to-peer chat application built with React, WebSocket, and TypeScript. This application allows users to communicate directly with each other, featuring real-time messaging, online status indicators, and offline message storage.
 
-![Chat Application Screenshot](https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3)
-
 ## Features
 
 - 🔐 User authentication with email and phone number
